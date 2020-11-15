@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ullalundemo"
+  "defaultProject": "ullalundemo",
+  "cli": {
+    "analytics": false
+  }
 }
